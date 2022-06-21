@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hilkiah-cmd
+- 👋 Hi, I’m @Hilkiah
 - 👀 I’m interested in web development , cyber security , python
 - 🌱 I’m currently learning web development ,python
 - 💞️ I’m looking to collaborate on various projects
