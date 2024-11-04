@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hilkiah
-- 👀 I’m interested in web development , cyber security , python
-- 🌱 I’m currently learning web development ,python
+- 👀 I’m interested in UI/UX design, Data Science
+- 🌱 I’m currently learning Data science(sql,ssis,power bi, python
 - 💞️ I’m looking to collaborate on various projects
 
 <!---
